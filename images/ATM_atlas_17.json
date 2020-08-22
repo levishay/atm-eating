@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"CachedBmp_2791":
+{
+	"frame": {"x":0,"y":838,"w":737,"h":836},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":836},
+	"sourceSize": {"w":737,"h":836}
+},
+"CachedBmp_2793":
+{
+	"frame": {"x":0,"y":0,"w":737,"h":836},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":836},
+	"sourceSize": {"w":737,"h":836}
+},
+"CachedBmp_2827":
+{
+	"frame": {"x":739,"y":0,"w":900,"h":684},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":684},
+	"sourceSize": {"w":900,"h":684}
+},
+"CachedBmp_294":
+{
+	"frame": {"x":739,"y":686,"w":586,"h":917},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":586,"h":917},
+	"sourceSize": {"w":586,"h":917}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "ATM_atlas_17.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

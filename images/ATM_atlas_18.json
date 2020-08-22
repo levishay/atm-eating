@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"CachedBmp_2784":
+{
+	"frame": {"x":573,"y":1118,"w":591,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":591,"h":535},
+	"sourceSize": {"w":591,"h":535}
+},
+"CachedBmp_2785":
+{
+	"frame": {"x":1313,"y":0,"w":567,"h":579},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":567,"h":579},
+	"sourceSize": {"w":567,"h":579}
+},
+"CachedBmp_2786":
+{
+	"frame": {"x":744,"y":0,"w":567,"h":579},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":567,"h":579},
+	"sourceSize": {"w":567,"h":579}
+},
+"CachedBmp_2788":
+{
+	"frame": {"x":0,"y":1209,"w":571,"h":665},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":571,"h":665},
+	"sourceSize": {"w":571,"h":665}
+},
+"CachedBmp_2790":
+{
+	"frame": {"x":0,"y":542,"w":571,"h":665},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":571,"h":665},
+	"sourceSize": {"w":571,"h":665}
+},
+"CachedBmp_2800":
+{
+	"frame": {"x":1166,"y":1006,"w":497,"h":504},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":504},
+	"sourceSize": {"w":497,"h":504}
+},
+"CachedBmp_2814":
+{
+	"frame": {"x":1166,"y":1512,"w":497,"h":503},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":503},
+	"sourceSize": {"w":497,"h":503}
+},
+"CachedBmp_2816":
+{
+	"frame": {"x":573,"y":581,"w":591,"h":535},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":591,"h":535},
+	"sourceSize": {"w":591,"h":535}
+},
+"CachedBmp_2826":
+{
+	"frame": {"x":1166,"y":581,"w":674,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":674,"h":423},
+	"sourceSize": {"w":674,"h":423}
+},
+"CachedBmp_293":
+{
+	"frame": {"x":0,"y":0,"w":742,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":742,"h":540},
+	"sourceSize": {"w":742,"h":540}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "ATM_atlas_18.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"CachedBmp_3963":
+{
+	"frame": {"x":742,"y":0,"w":737,"h":836},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":737,"h":836},
+	"sourceSize": {"w":737,"h":836}
+},
+"CachedBmp_3965":
+{
+	"frame": {"x":741,"y":838,"w":738,"h":837},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":837},
+	"sourceSize": {"w":738,"h":837}
+},
+"CachedBmp_3967":
+{
+	"frame": {"x":0,"y":838,"w":739,"h":837},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":739,"h":837},
+	"sourceSize": {"w":739,"h":837}
+},
+"CachedBmp_3973":
+{
+	"frame": {"x":0,"y":0,"w":740,"h":836},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":740,"h":836},
+	"sourceSize": {"w":740,"h":836}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "RECOVER_ATM_atlas_16.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
